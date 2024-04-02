@@ -1,4 +1,4 @@
-# 6. Biofabricating materials
+# 1. Biofabricating materials
 
 
 ## Research and inspiration
