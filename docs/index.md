@@ -1,5 +1,5 @@
 # About me
-6. [bioplastics](./assignments/bioplastic.md)
+1. [bioplastics](./assignments/bioplastic.md)
 ## Who am I
 
  ![](../docs/images/avatar-photo.jpg)
