@@ -1,3 +1,8 @@
+---
+permalink: /Bioplastics/
+title: "Bioplastics"
+---
+
 # Bioplastics
 
 ## Research and inspiration

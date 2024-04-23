@@ -1,3 +1,8 @@
+---
+permalink: /Bio Algae reactor/
+title: "Bio Algae reactor"
+---
+
 # Bio Algae reactor
 
 
