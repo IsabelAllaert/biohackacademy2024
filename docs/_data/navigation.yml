@@ -7,3 +7,20 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+docs:
+  - title: Assignments
+    children:
+      - title: "Intro to biohacking"
+        url: /introtobiohacking/
+      - title: "bioplastics"
+        url: /bioplastic/
+      - title: "Open Bio Hardware"
+        url: /openbiohardware/
+      - title: "Bio Algae Reactior"
+        url: /bioalgaereactor/
+
+  - title: Customization
+    children:
+      - title: "Fermentation"
+        url: /fermentation/
