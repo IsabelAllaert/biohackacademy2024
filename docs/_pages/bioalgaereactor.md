@@ -1,6 +1,10 @@
 ---
-permalink: /Bio Algae reactor/
 title: "Bio Algae reactor"
+categories:
+  - assignments
+tags:
+  - Jekyll
+  - update
 ---
 
 # Bio Algae reactor
