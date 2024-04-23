@@ -1,3 +1,8 @@
+---
+permalink: /Intro to biohacking/
+title: "Intro to biohacking "
+---
+
 # Intro to biohacking
 
 So, BioHack academy? Sounds rather tricky and scary, no? 

@@ -1,3 +1,8 @@
+---
+permalink: /Open bio hardware/
+title: "Open bio hardware"
+---
+
 # Open bio hardware
 
 Typically a bio-lab has a bunch of expensive machines that set you back quite a bucks. Luckily as makers we can make a few ourselves!

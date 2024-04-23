@@ -1,3 +1,8 @@
+---
+permalink: /Fermentation/
+title: "Fermentation "
+---
+
 # Fermentation 
 
 Fermentation has been utilised by humans for thousands of years in the production of food and beverages. It not only preserves food but also enhances flavours and textures. Additionally, fermentation plays a crucial role in various biological processes, such as the production of certain vitamins and antibiotics.
