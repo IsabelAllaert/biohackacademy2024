@@ -1,4 +1,7 @@
-
+---
+permalink: /about/
+title: "About"
+---
 ## Who am I
 
  ![](../docs/images/avatar-photo.jpg)
