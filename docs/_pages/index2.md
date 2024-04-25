@@ -1,4 +1,7 @@
-
+---
+permalink: /
+title: "home"
+---
 # Documentation
 
 [Intro to biohacking](./assignments/introtobiohacking.md)
