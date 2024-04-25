@@ -4,19 +4,19 @@ title: "home"
 ---
 # Documentation
 
-[Intro to biohacking](./assignments/introtobiohacking.md)
+[Intro to biohacking](./introtobiohacking.md)
 
 
-[bioplastics](./assignments/bioplastic.md)
+[bioplastics](./bioplastic.md)
 
 
-[Open Bio Hardware](./assignments/openbiohardware.md)
+[Open Bio Hardware](./openbiohardware.md)
 
 
-[Bio Algae Reactior](./assignments/bioalgaereactor.md)
+[Bio Algae Reactior](./bioalgaereactor.md)
 
 
-[Fermentation](./assignments/fermentation.md)
+[Fermentation](./fermentation.md)
 
 
 # [Who am I](./whoami.md)
