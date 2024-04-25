@@ -4,7 +4,7 @@ main:
   - title: "Pages"
     url: /pages/
   - title: "Tags"
-    url: /tags/
+    url: /bioplastic/
   - title: "About"
     url: /about/
 docs:
@@ -16,7 +16,7 @@ docs:
         url: /bioplastic/
       - title: "Open Bio Hardware"
         url: /openbiohardware/
-      - title: "Bio Algae Reactior"
+      - title: "Bio Algae Reactor"
         url: /bioalgaereactor/
 
   - title: Customization
