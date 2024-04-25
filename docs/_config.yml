@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Isabel Allaert"
   avatar : "/assets/images/bio-photo.jpg"
- # bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "bioalgaereactor"
       icon: "fas fa-fw fa-link"
@@ -90,14 +90,14 @@ author:
       url: "https://instagram.com/isabelallaert"
 
 defaults:
-  #_pages
+  # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
       author_profile: true
- #_docs
+ # _docs
   - scope:
       path: ""
       type: docs
