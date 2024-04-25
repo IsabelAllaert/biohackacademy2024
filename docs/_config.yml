@@ -23,6 +23,9 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
+url                      : "https://isabelallaert.github.io/"
+baseurl                  : "/biohackacademy2024"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 
 # Build settings
 markdown: kramdown
