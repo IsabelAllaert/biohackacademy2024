@@ -97,7 +97,7 @@ defaults:
       author_profile: true
  # _docs
   - scope:
-      path: "_pages"
+      path: ""
       type: docs
     values:
       sidebar:
