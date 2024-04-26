@@ -1,6 +1,11 @@
 ---
 permalink: /Bio Algae reactor/
 title: ""Bio Algae reactor"
+
+sidebar:
+  title: "Sample Title"
+  nav: sidebar-sample
+
 ---
 
 # Bio Algae reactor
