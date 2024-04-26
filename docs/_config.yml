@@ -73,18 +73,6 @@ author:
     text: "More text here."
     nav: sidebar-sample
 
-  
-#footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/isabelallaert"
 
 defaults:
   # _pages

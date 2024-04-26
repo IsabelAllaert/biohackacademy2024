@@ -1,6 +1,7 @@
 ---
 permalink: /Bio Algae reactor/
-title: ""Bio Algae reactor"
+title: "Bio Algae reactor"
+
 ---
 
 
