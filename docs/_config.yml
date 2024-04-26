@@ -60,15 +60,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-sidebar:
-  - title: "Title"
-    image: "/assets/images/your-image.jpg"
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-    nav: sidebar-sample
-
 #footer:
   links:
     - label: "Twitter"
