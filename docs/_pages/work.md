@@ -1,7 +1,10 @@
 
 ---
 permalink: /Work/
-title: "work"
+title: "Work"
+---
+
+Test
 
 sidebar:
   - title: "Title"
@@ -11,7 +14,6 @@ sidebar:
   - title: "Another Title"
     text: "More text here."
     nav: sidebar-sample
----
 
 sidebar-sample:
   - title: "Parent Page A"
