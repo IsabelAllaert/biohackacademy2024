@@ -1,10 +1,10 @@
 main:
   - title: "Work"
-    url: /work/
+    url: /Work/
   - title: "Pages"
     url: /pages/
   - title: "Tags"
-    url: /bioplastic/
+    url: /Bioplastics/
   - title: "About"
     url: /about/
 docs:
