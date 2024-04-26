@@ -7,7 +7,7 @@ title: "Bioplastics"
 
 ## Research and inspiration
 
-Looking close to home, I believe one of the first times I was introduced to using biomaterials as a source was when \[Kristel Peters\](http://shoedesigner.be/about-me/) presented her work during a lecture at the \[Ghent Design Museum\](https://www.designmuseumgent.be/).
+Looking close to home, I believe one of the first times I was introduced to using biomaterials as a source was when [Kristel Peters](http://shoedesigner.be/about-me/) presented her work during a lecture at the [Ghent Design Museum](https://www.designmuseumgent.be/).
 
 
 ![](https://paper-attachments.dropboxusercontent.com/s_A6E00D3095840791902FE4E6F81DC4A571EABB583F93D53755F35FF38F843186_1647418889986_Screenshot+2022-03-16+at+09.19.53.png)
@@ -32,9 +32,9 @@ Wow!
 
 Be sure to check her work!
 
-Another artist who I think does amazing work with biomaterials, is \[Charlotte Gautier van Tour\](https://charlottegautiervantour.fr/).
+Another artist who I think does amazing work with biomaterials, is [Charlotte Gautier van Tour](https://charlottegautiervantour.fr/).
 Amongst other things, she makes big installations all over the world and allows the biomaterials to set in the space. They change over time while drying.
-This works is called \[Top View\](https://charlottegautiervantour.fr/Top-View). I love it!
+This works is called [Top View](https://charlottegautiervantour.fr/Top-View). I love it!
 
 
 ![](https://paper-attachments.dropboxusercontent.com/s_A6E00D3095840791902FE4E6F81DC4A571EABB583F93D53755F35FF38F843186_1647422444691_Screenshot+2022-03-16+at+10.19.57.png)
@@ -45,7 +45,7 @@ This works is called \[Top View\](https://charlottegautiervantour.fr/Top-View). 
 ![](https://paper-attachments.dropboxusercontent.com/s_A6E00D3095840791902FE4E6F81DC4A571EABB583F93D53755F35FF38F843186_1647422444576_Screenshot+2022-03-16+at+10.20.08.png)
 
 
-\[Land of water\](https://charlottegautiervantour.fr/Lands-of-Water) is based on a map of The Netherlands. Can you tell?
+[Land of water](https://charlottegautiervantour.fr/Lands-of-Water) is based on a map of The Netherlands. Can you tell?
 It’s a beautiful work of art, based on agar agar and spiruline. I cannot stop looking at it 🙂 
 
 
