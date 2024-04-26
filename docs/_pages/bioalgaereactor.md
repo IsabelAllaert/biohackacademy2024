@@ -1,14 +1,7 @@
 ---
 permalink: /Bio Algae reactor/
 title: ""Bio Algae reactor"
-
-sidebar:
-  title: "Sample Title"
-  nav: sidebar-sample
-
 ---
-
-# Bio Algae reactor
 
 
 A bio algae reactor is used to cultivate and grow algae for various purposes, such as biofuel production, wastewater treatment, carbon capture, and production of high-value compounds like omega-3 fatty acids or pigments.
