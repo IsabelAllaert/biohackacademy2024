@@ -64,7 +64,8 @@ author:
   name   : "Isabel Allaert"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
-  sidebar:
+
+sidebar:
   - title: "Title"
     image: "/assets/images/your-image.jpg"
     image_alt: "image"
