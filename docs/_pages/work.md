@@ -1,7 +1,7 @@
 
 ---
 permalink: /Work/
-title: "Work"
+title: "work"
 
 sidebar:
   - title: "Title"

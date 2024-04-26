@@ -1,10 +1,10 @@
 main:
   - title: "Work"
-    url: /Work/
+    url: /work/
   - title: "Pages"
     url: /pages/
   - title: "Tags"
-    url: /bioplastics/
+    url: /bioplastic/
   - title: "About"
     url: /about/
 docs:
@@ -12,7 +12,7 @@ docs:
     children:
       - title: "Intro to biohacking"
         url: /introtobiohacking/
-      - title: "bioplastics"
+      - title: "bioplastic"
         url: /bioplastic/
       - title: "Open Bio Hardware"
         url: /openbiohardware/
