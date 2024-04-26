@@ -3,8 +3,6 @@ permalink: /Intro to biohacking/
 title: "Intro to biohacking "
 ---
 
-# Intro to biohacking
-
 So, BioHack academy? Sounds rather tricky and scary, no? 
 Don’t be too worried, a lot of safety guidelines are in place to make sure we don’t end up cultivating a flesh eating bacteria or try to grow a dinosaur like Dr. Wu.
 
