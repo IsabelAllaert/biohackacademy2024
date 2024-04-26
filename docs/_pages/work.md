@@ -11,7 +11,6 @@ sidebar:
   - title: "Another Title"
     text: "More text here."
     nav: sidebar-sample
-
 ---
 
 sidebar-sample:
